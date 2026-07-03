@@ -1,0 +1,17 @@
+CANDIDATE A - Senior Backend Engineer
+Email: candidate.a@example.com | Phone: +84 900 000 001
+
+EXPERIENCE
+Senior Backend Engineer, B2B SaaS scale-up (2021-present)
+- Own the candidate-pipeline service of an ATS product used by 800+ companies
+- Reduced p95 search latency from 4.2s to 320ms by rewriting N+1 queries,
+  adding composite indexes and introducing an OpenSearch read path
+- Moved bulk status updates to async workers (Sidekiq), cutting timeout
+  errors by 95% and support tickets by a third
+- Adopted LLM-assisted development (Claude/Copilot) team-wide; wrote the
+  team's prompt playbook for test generation and code review
+Backend Engineer, logistics startup (2018-2021)
+- Built REST APIs in Ruby on Rails serving 2M requests/day; on-call owner
+
+NOTES
+- Writes weekly async updates; ran the migration project solo end to end

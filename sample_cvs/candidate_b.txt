@@ -1,0 +1,13 @@
+CANDIDATE B - Software Engineer
+Email: candidate.b@example.com | Phone: +84 900 000 002
+
+EXPERIENCE
+Software Engineer, e-commerce platform (2020-present)
+- Develop and maintain order-management microservices (Node.js, PostgreSQL)
+- Improved checkout API latency ~40% through query tuning and Redis caching
+- Used ChatGPT occasionally for boilerplate and debugging
+Junior Developer, agency (2018-2020)
+- Delivered CMS websites for clients; some PHP and WordPress
+
+NOTES
+- Prefers detailed specs before starting; strong within a defined scope

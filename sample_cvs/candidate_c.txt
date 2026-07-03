@@ -1,0 +1,13 @@
+CANDIDATE C - Frontend Developer
+Email: candidate.c@example.com | Phone: +84 900 000 003
+
+EXPERIENCE
+Frontend Developer, media company (2022-present)
+- Build marketing pages and dashboards in React and Next.js
+- Won internal hackathon with an AI chatbot prototype using the OpenAI API
+Intern, university lab (2021)
+- Data annotation for an ML research project
+
+NOTES
+- Interested in moving toward full-stack work; no production backend
+  ownership yet
