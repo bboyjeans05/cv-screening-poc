@@ -1,7 +1,6 @@
 # AI CV Screening - Proof of Concept
 
-A working slice of "Initiative 2" from my recommendation for the Employment
-Hero AI-Native Engineering Challenge: LLM-based CV screening that **ranks and
+A working slice of "Initiative 2" from my recommendation for the AI-Native Engineering Challenge: LLM-based CV screening that **ranks and
 explains, while a human always decides**.
 
 Built in one evening with AI assistance - which is the point. The
